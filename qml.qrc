@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyButton.qml</file>
+        <file>MyLabel.qml</file>
+        <file>MyIndicator.qml</file>
+        <file>MyScreenText.qml</file>
+        <file>icon/power.png</file>
+        <file>icon/play.png</file>
+        <file>icon/pause.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/next.png</file>
+        <file>icon/fast-rewind.png</file>
+        <file>icon/previous.png</file>
+        <file>icon/fast-forward.png</file>
+    </qresource>
+</RCC>
